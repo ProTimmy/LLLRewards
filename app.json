@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "LLLRewards",
+    "description": "This project is really great.",
+    "slug": "LLLRewards",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": ["ios", "android"],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/llanada.png",
+    "splash": {
+      "image": "./assets/llanada.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
